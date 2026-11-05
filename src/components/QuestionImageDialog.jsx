@@ -56,6 +56,11 @@ export default function QuestionImageDialog({ item, onClose }) {
             {showScoring ? 'Hide scoring guidelines' : 'Show scoring guidelines'}
           </button>
         )}
+        {item.pdfUrl && (
+          <a href={item.pdfUrl} target="_blank" rel="noopener noreferrer">
+            Open in scoring guide PDF ↗
+          </a>
+        )}
       </div>
     </dialog>
   );
