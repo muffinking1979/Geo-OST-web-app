@@ -1,0 +1,2662 @@
+{
+  "years": [
+    {
+      "label": "Spring 2016",
+      "color": "#c0392b"
+    },
+    {
+      "label": "Spring 2017",
+      "color": "#d35400"
+    },
+    {
+      "label": "Spring 2018",
+      "color": "#b7950b"
+    },
+    {
+      "label": "Spring 2019",
+      "color": "#1e8449"
+    },
+    {
+      "label": "Spring 2021",
+      "color": "#1a6da0"
+    },
+    {
+      "label": "Spring 2022",
+      "color": "#27ae60"
+    },
+    {
+      "label": "Spring 2023",
+      "color": "#2980b9"
+    },
+    {
+      "label": "Spring 2024",
+      "color": "#8e44ad"
+    },
+    {
+      "label": "Spring 2025",
+      "color": "#16a085"
+    },
+    {
+      "label": "Spring 2026",
+      "color": "#5d4037"
+    }
+  ],
+  "sections": [
+    {
+      "label": "Congruence",
+      "standards": [
+        "G.CO.1",
+        "G.CO.2",
+        "G.CO.3",
+        "G.CO.4",
+        "G.CO.5",
+        "G.CO.6",
+        "G.CO.7",
+        "G.CO.8",
+        "G.CO.9",
+        "G.CO.10",
+        "G.CO.11",
+        "G.CO.12",
+        "G.CO.13",
+        "G.CO.14"
+      ]
+    },
+    {
+      "label": "Similarity & Trig",
+      "standards": [
+        "G.SRT.1",
+        "G.SRT.2",
+        "G.SRT.3",
+        "G.SRT.4",
+        "G.SRT.5",
+        "G.SRT.6",
+        "G.SRT.7",
+        "G.SRT.8"
+      ]
+    },
+    {
+      "label": "Circles",
+      "standards": [
+        "G.C.1",
+        "G.C.2",
+        "G.C.3",
+        "G.C.5"
+      ]
+    },
+    {
+      "label": "Coordinates",
+      "standards": [
+        "G.GPE.1",
+        "G.GPE.4",
+        "G.GPE.5",
+        "G.GPE.6",
+        "G.GPE.7"
+      ]
+    },
+    {
+      "label": "Measurement",
+      "standards": [
+        "G.GMD.1",
+        "G.GMD.3",
+        "G.GMD.4",
+        "G.GMD.5",
+        "G.GMD.6"
+      ]
+    },
+    {
+      "label": "Modeling",
+      "standards": [
+        "G.MG.1",
+        "G.MG.2",
+        "G.MG.3"
+      ]
+    },
+    {
+      "label": "Probability",
+      "standards": [
+        "S.CP.1",
+        "S.CP.2",
+        "S.CP.3",
+        "S.CP.4",
+        "S.CP.5",
+        "S.CP.6",
+        "S.CP.7"
+      ]
+    }
+  ],
+  "standards": {
+    "G.CO.1": {
+      "description": "Know precise definitions of ray, angle, circle, perpendicular line, parallel line, and line segment.",
+      "items": [
+        {
+          "year": "Spring 2017",
+          "question": "Q16",
+          "type": "Multiple Choice",
+          "text": "Know precise definitions of ray, angle, circle, perpendicular line, parallel line, and line segment.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Geo_Sp17_Item_Release_Scoring_Guide.pdf#page=124",
+          "images": [
+            "questions/2017/Q16-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2017/Q16-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2018",
+          "question": "Q31",
+          "type": "Multiple Choice",
+          "text": "Know precise definitions of ray, angle, circle, perpendicular line, parallel line, and line segment.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp18_Geo_ItemReleaseScoringGuide.pdf#page=118",
+          "images": [
+            "questions/2018/Q31-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2018/Q31-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2023",
+          "question": "Q16",
+          "type": "Multiple Choice",
+          "text": "Know precise definitions of ray, angle, circle, perpendicular line, parallel line, and line segment.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Geometry_080923.pdf#page=78",
+          "images": [
+            "questions/2023/Q16-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2023/Q16-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2025",
+          "question": "Q51",
+          "type": "Multiple Choice",
+          "text": "Know precise definitions of ray, angle, circle, perpendicular line, parallel line, and line segment.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp25_IRSG_Geo_FBL_060225.pdf#page=152",
+          "images": [
+            "questions/2025/Q51-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2025/Q51-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.CO.2": {
+      "description": "Represent transformations in the plane; describe as functions that take points as inputs and give points as outputs.",
+      "items": [
+        {
+          "year": "Spring 2021",
+          "question": "Q47",
+          "type": "Multiple Choice",
+          "text": "Represent transformations in the plane; describe transformations as functions that take points as inputs and give points as outputs.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp21_Geo_ItemRelease_ScoringGuide.pdf#page=184",
+          "images": [
+            "questions/2021/Q47-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2021/Q47-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2025",
+          "question": "Q11",
+          "type": "Multiple Choice",
+          "text": "Represent transformations in the plane; describe transformations as functions that take points as inputs and give points as outputs.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp25_IRSG_Geo_FBL_060225.pdf#page=30",
+          "images": [
+            "questions/2025/Q11-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2025/Q11-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.CO.3": {
+      "description": "Identify symmetries of a figure (line and rotational symmetry).",
+      "items": [
+        {
+          "year": "Spring 2017",
+          "question": "Q12",
+          "type": "Multiple Choice",
+          "text": "Identify the symmetries of a figure. For a regular polygon, describe the rotations and reflections that carry it onto itself.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Geo_Sp17_Item_Release_Scoring_Guide.pdf#page=96",
+          "images": [
+            "questions/2017/Q12-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2017/Q12-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2021",
+          "question": "Q43",
+          "type": "Multiple Choice",
+          "text": "Identify the symmetries of a figure: rotations and reflections that carry it onto itself. Identify figures with line symmetry and rotational symmetry.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp21_Geo_ItemRelease_ScoringGuide.pdf#page=168",
+          "images": [
+            "questions/2021/Q43-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2021/Q43-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2022",
+          "question": "Q45",
+          "type": "Multiple Choice",
+          "text": "Identify the symmetries of a figure. Identify figures that have line symmetry; draw and use lines of symmetry to analyze properties of shapes.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp22_IRSG_Geo_093022.pdf#page=164",
+          "images": [
+            "questions/2022/Q45-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2022/Q45-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.CO.4": {
+      "description": "Develop definitions of rotations, reflections, and translations in terms of angles, circles, perpendicular/parallel lines.",
+      "items": [
+        {
+          "year": "Spring 2024",
+          "question": "Q11",
+          "type": "Multiple Choice",
+          "text": "Develop definitions of rotations, reflections, and translations in terms of angles, circles, perpendicular lines, parallel lines, and line segments.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp24_IRSG_Geo_FBL_050724.pdf#page=38",
+          "images": [
+            "questions/2024/Q11-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2024/Q11-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2025",
+          "question": "Q45",
+          "type": "Multiple Choice",
+          "text": "Develop definitions of rotations, reflections, and translations in terms of angles, circles, perpendicular lines, parallel lines, and line segments.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp25_IRSG_Geo_FBL_060225.pdf#page=139",
+          "images": [
+            "questions/2025/Q45-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2025/Q45-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.CO.5": {
+      "description": "Draw transformed figures; specify sequences of transformations that carry one figure onto another.",
+      "items": [
+        {
+          "year": "Spring 2017",
+          "question": "Q20",
+          "type": "Multiple Choice",
+          "text": "Given a geometric figure and a rotation, reflection, or translation, draw the transformed figure. Specify a sequence of transformations that will carry a given figure onto another.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Geo_Sp17_Item_Release_Scoring_Guide.pdf#page=146",
+          "images": [
+            "questions/2017/Q20-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2017/Q20-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2019",
+          "question": "Q4",
+          "type": "Multiple Choice",
+          "text": "Given a geometric figure and a rotation, reflection, or translation, draw the transformed figure. Specify a sequence of transformations that will carry a given figure onto another.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp19_Geo_ItemRelease_ScoringGuide.pdf#page=26",
+          "images": [
+            "questions/2019/Q4-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2019/Q4-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2021",
+          "question": "Q25",
+          "type": "Multiple Choice",
+          "text": "Given a geometric figure and a rotation, reflection, or translation, draw the transformed figure. Specify a sequence of transformations that will carry a given figure onto another.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp21_Geo_ItemRelease_ScoringGuide.pdf#page=108",
+          "images": [
+            "questions/2021/Q25-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2021/Q25-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2023",
+          "question": "Q18",
+          "type": "Multiple Choice",
+          "text": "Given a geometric figure and a rotation, reflection, or translation, draw the transformed figure. Specify a sequence of transformations.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Geometry_080923.pdf#page=81",
+          "images": [
+            "questions/2023/Q18-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2023/Q18-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2025",
+          "question": "Q43",
+          "type": "Multiple Choice",
+          "text": "Given a geometric figure and a rotation, reflection, or translation, draw the transformed figure. Specify a sequence of transformations.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp25_IRSG_Geo_FBL_060225.pdf#page=135",
+          "images": [
+            "questions/2025/Q43-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2025/Q43-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.CO.6": {
+      "description": "Use rigid motions to transform figures; use definition of congruence to decide if figures are congruent.",
+      "items": [
+        {
+          "year": "Spring 2017",
+          "question": "Q8",
+          "type": "Multiple Choice",
+          "text": "Use geometric descriptions of rigid motions to transform figures; given two figures, use the definition of congruence to decide if they are congruent.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Geo_Sp17_Item_Release_Scoring_Guide.pdf#page=74",
+          "images": [
+            "questions/2017/Q8-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2017/Q8-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2018",
+          "question": "Q47",
+          "type": "Multiple Choice",
+          "text": "Use geometric descriptions of rigid motions to transform figures; given two figures, use the definition of congruence to decide if they are congruent.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp18_Geo_ItemReleaseScoringGuide.pdf#page=182",
+          "images": [
+            "questions/2018/Q47-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2018/Q47-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2023",
+          "question": "Q11",
+          "type": "Multiple Choice",
+          "text": "Use geometric descriptions of rigid motions to transform figures; given two figures, use the definition of congruence to decide if they are congruent.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Geometry_080923.pdf#page=71",
+          "images": [
+            "questions/2023/Q11-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2023/Q11-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.CO.7": {
+      "description": "Show triangles are congruent iff corresponding sides and angles are congruent.",
+      "items": [
+        {
+          "year": "Spring 2017",
+          "question": "Q18",
+          "type": "Multiple Choice",
+          "text": "Use the definition of congruence in terms of rigid motions to show that two triangles are congruent iff corresponding pairs of sides and angles are congruent.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Geo_Sp17_Item_Release_Scoring_Guide.pdf#page=132",
+          "images": [
+            "questions/2017/Q18-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2017/Q18-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2021",
+          "question": "Q1",
+          "type": "Multiple Choice",
+          "text": "Use the definition of congruence in terms of rigid motions to show that two triangles are congruent iff corresponding pairs of sides and angles are congruent.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp21_Geo_ItemRelease_ScoringGuide.pdf#page=13",
+          "images": [
+            "questions/2021/Q1-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2021/Q1-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2023",
+          "question": "Q28",
+          "type": "Multiple Choice",
+          "text": "Use the definition of congruence in terms of rigid motions to show that two triangles are congruent iff corresponding sides and angles are congruent.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Geometry_080923.pdf#page=93",
+          "images": [
+            "questions/2023/Q28-q1.webp",
+            "questions/2023/Q28-q2.webp"
+          ],
+          "scoringImages": [
+            "questions/2023/Q28-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2024",
+          "question": "Q5",
+          "type": "Multiple Choice",
+          "text": "Use the definition of congruence in terms of rigid motions to show that two triangles are congruent iff corresponding pairs of sides and angles are congruent.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp24_IRSG_Geo_FBL_050724.pdf#page=30",
+          "images": [
+            "questions/2024/Q5-q1.webp",
+            "questions/2024/Q5-q2.webp"
+          ],
+          "scoringImages": [
+            "questions/2024/Q5-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.CO.8": {
+      "description": "Explain how triangle congruence criteria (ASA, SAS, SSS) follow from definition of congruence.",
+      "items": [
+        {
+          "year": "Spring 2019",
+          "question": "Q34",
+          "type": "Multiple Choice",
+          "text": "Explain how the criteria for triangle congruence (ASA, SAS, and SSS) follow from the definition of congruence in terms of rigid motions.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp19_Geo_ItemRelease_ScoringGuide.pdf#page=125",
+          "images": [
+            "questions/2019/Q34-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2019/Q34-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2021",
+          "question": "Q49",
+          "type": "Multiple Choice",
+          "text": "Explain how the criteria for triangle congruence (ASA, SAS, and SSS) follow from the definition of congruence in terms of rigid motions.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp21_Geo_ItemRelease_ScoringGuide.pdf#page=194",
+          "images": [
+            "questions/2021/Q49-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2021/Q49-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2024",
+          "question": "Q33",
+          "type": "Multiple Choice",
+          "text": "Explain how the criteria for triangle congruence (ASA, SAS, and SSS) follow from the definition of congruence in terms of rigid motions.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp24_IRSG_Geo_FBL_050724.pdf#page=129",
+          "images": [
+            "questions/2024/Q33-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2024/Q33-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.CO.9": {
+      "description": "Prove theorems about lines and angles (vertical angles, parallel lines/transversals, perpendicular bisector).",
+      "items": [
+        {
+          "year": "Spring 2018",
+          "question": "Q39",
+          "type": "Multiple Choice",
+          "text": "Prove and apply theorems about lines and angles: vertical angles are congruent; alternate interior and corresponding angles congruent with parallel lines.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp18_Geo_ItemReleaseScoringGuide.pdf#page=132",
+          "images": [
+            "questions/2018/Q39-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2018/Q39-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2019",
+          "question": "Q40",
+          "type": "Short Answer",
+          "text": "Prove and apply theorems about lines and angles: vertical angles congruent; alternate interior and corresponding angles congruent with parallel lines; perpendicular bisector equidistance. [2 points]",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp19_Geo_ItemRelease_ScoringGuide.pdf#page=134",
+          "images": [
+            "questions/2019/Q40-q1.webp",
+            "questions/2019/Q40-q2.webp"
+          ],
+          "scoringImages": [
+            "questions/2019/Q40-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2021",
+          "question": "Q37",
+          "type": "Multiple Choice",
+          "text": "Prove and apply theorems about lines and angles: vertical angles congruent; alternate interior and corresponding angles congruent with parallel lines.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp21_Geo_ItemRelease_ScoringGuide.pdf#page=129",
+          "images": [
+            "questions/2021/Q37-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2021/Q37-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2024",
+          "question": "Q23",
+          "type": "Multiple Choice",
+          "answer": "D",
+          "text": "Prove and apply theorems about lines and angles: vertical angles congruent; alternate interior and corresponding angles congruent with parallel lines; perpendicular bisector equidistance.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp24_IRSG_Geo_FBL_050724.pdf#page=110",
+          "images": [
+            "questions/2024/Q23-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2024/Q23-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2025",
+          "question": "Q22",
+          "type": "Multiple Choice",
+          "answer": "A",
+          "text": "Prove and apply theorems about lines and angles: vertical angles congruent; alternate interior and corresponding angles congruent with parallel lines.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp25_IRSG_Geo_FBL_060225.pdf#page=63",
+          "images": [
+            "questions/2025/Q22-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2025/Q22-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.CO.10": {
+      "description": "Prove theorems about triangles (angle sum, isosceles base angles, midsegment, medians).",
+      "items": [
+        {
+          "year": "Spring 2018",
+          "question": "Q44",
+          "type": "Short Answer",
+          "text": "Prove and apply theorems about triangles: interior angles sum to 180°; base angles of isosceles triangles congruent; midsegment parallel to third side; medians meet at a point. [2 points]",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp18_Geo_ItemReleaseScoringGuide.pdf#page=152",
+          "images": [
+            "questions/2018/Q44-q1.webp",
+            "questions/2018/Q44-q2.webp"
+          ],
+          "scoringImages": [
+            "questions/2018/Q44-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2021",
+          "question": "Q40",
+          "type": "Multiple Choice",
+          "text": "Prove and apply theorems about triangles: interior angles sum to 180°; base angles of isosceles triangles congruent; medians meet at a point.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp21_Geo_ItemRelease_ScoringGuide.pdf#page=139",
+          "images": [
+            "questions/2021/Q40-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2021/Q40-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2022",
+          "question": "Q43",
+          "type": "Multiple Choice",
+          "text": "Prove and apply theorems about triangles: interior angles sum to 180°; base angles of isosceles triangles congruent.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp22_IRSG_Geo_093022.pdf#page=153",
+          "images": [
+            "questions/2022/Q43-q1.webp",
+            "questions/2022/Q43-q2.webp"
+          ],
+          "scoringImages": [
+            "questions/2022/Q43-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2023",
+          "question": "Q30",
+          "type": "Multiple Choice",
+          "text": "Prove and apply theorems about triangles: the medians of a triangle meet at a point.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Geometry_080923.pdf#page=110",
+          "images": [
+            "questions/2023/Q30-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2023/Q30-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.CO.11": {
+      "description": "Prove theorems about parallelograms.",
+      "items": [
+        {
+          "year": "Spring 2017",
+          "question": "Q13",
+          "type": "Multiple Choice",
+          "text": "Prove and apply theorems about parallelograms: opposite sides congruent, opposite angles congruent, diagonals bisect each other; rectangles are parallelograms with congruent diagonals.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Geo_Sp17_Item_Release_Scoring_Guide.pdf#page=100",
+          "images": [
+            "questions/2017/Q13-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2017/Q13-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2018",
+          "question": "Q21",
+          "type": "Multiple Choice",
+          "text": "Prove and apply theorems about parallelograms: opposite sides congruent, opposite angles congruent, diagonals bisect each other.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp18_Geo_ItemReleaseScoringGuide.pdf#page=88",
+          "images": [
+            "questions/2018/Q21-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2018/Q21-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2026",
+          "question": "Item 42818",
+          "type": "Multiple Choice",
+          "answer": "B (80°)",
+          "title": "Finding the Measure of an Unknown Angle",
+          "text": "Parallelogram PQRS is shown, with ∠S = 80°. What is the measure of ∠PQR? A) 40°  B) 80°  C) 100°  D) 160°",
+          "images": [
+            "questions/2026/42818.png"
+          ],
+          "libraryUrl": "https://irl.cambiumast.com/ohio/"
+        }
+      ]
+    },
+    "G.CO.12": {
+      "description": "Make formal geometric constructions with a variety of tools.",
+      "items": [
+        {
+          "year": "Spring 2019",
+          "question": "Q21",
+          "type": "Multiple Choice",
+          "text": "Make formal geometric constructions with a variety of tools and methods (compass and straightedge, string, reflective devices, paper folding, dynamic geometric software, etc.).",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp19_Geo_ItemRelease_ScoringGuide.pdf#page=90",
+          "images": [
+            "questions/2019/Q21-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2019/Q21-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.CO.13": {
+      "description": "Construct equilateral triangle, square, and regular hexagon inscribed in a circle.",
+      "items": [
+        {
+          "year": "Spring 2024",
+          "question": "Q43",
+          "type": "Multiple Choice",
+          "text": "Construct an equilateral triangle, a square, and a regular hexagon inscribed in a circle.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp24_IRSG_Geo_FBL_050724.pdf#page=150",
+          "images": [
+            "questions/2024/Q43-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2024/Q43-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.CO.14": {
+      "description": "Classify two-dimensional figures in a hierarchy based on properties.",
+      "items": [
+        {
+          "year": "Spring 2019",
+          "question": "Q12",
+          "type": "Multiple Choice",
+          "text": "Classify two-dimensional figures in a hierarchy based on properties.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp19_Geo_ItemRelease_ScoringGuide.pdf#page=65",
+          "images": [
+            "questions/2019/Q12-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2019/Q12-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2023",
+          "question": "Q37",
+          "type": "Multiple Choice",
+          "text": "Classify two-dimensional figures in a hierarchy based on properties.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Geometry_080923.pdf#page=144",
+          "images": [
+            "questions/2023/Q37-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2023/Q37-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2025",
+          "question": "Q24",
+          "type": "Multiple Choice",
+          "text": "Classify two-dimensional figures in a hierarchy based on properties.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp25_IRSG_Geo_FBL_060225.pdf#page=67",
+          "images": [
+            "questions/2025/Q24-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2025/Q24-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.SRT.1": {
+      "description": "Verify experimentally the properties of dilations given by a center and scale factor.",
+      "items": [
+        {
+          "year": "Spring 2017",
+          "question": "Q6",
+          "type": "Multiple Choice",
+          "text": "Verify experimentally the properties of dilations: the dilation of a line segment is longer or shorter in the ratio given by the scale factor.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Geo_Sp17_Item_Release_Scoring_Guide.pdf#page=52",
+          "images": [
+            "questions/2017/Q6-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2017/Q6-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2018",
+          "question": "Q45",
+          "type": "Short Answer",
+          "text": "Verify experimentally the properties of dilations: a line not through the center maps to a parallel line; a line through the center is unchanged. [2 points]",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp18_Geo_ItemReleaseScoringGuide.pdf#page=168",
+          "images": [
+            "questions/2018/Q45-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2018/Q45-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2021",
+          "question": "Q28",
+          "type": "Multiple Choice",
+          "text": "Verify experimentally the properties of dilations given by a center and a scale factor.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp21_Geo_ItemRelease_ScoringGuide.pdf#page=117",
+          "images": [
+            "questions/2021/Q28-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2021/Q28-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2023",
+          "question": "Q9",
+          "type": "Multiple Choice",
+          "text": "Verify experimentally the properties of dilations: a line passing through the center of dilation is left unchanged.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Geometry_080923.pdf#page=59",
+          "images": [
+            "questions/2023/Q9-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2023/Q9-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2026",
+          "question": "Item 26243",
+          "type": "Equation Item",
+          "answer": "2",
+          "title": "Slope of Dilated Triangle's Side",
+          "text": "Triangle ABC has vertices A(0, 1), B(3, 7), and C(4, 0). Triangle A′B′C′ is created by dilating triangle ABC by a scale factor of 3 about the origin. What is the slope of side A′B′?",
+          "images": [
+            "questions/2026/26243.png"
+          ],
+          "libraryUrl": "https://irl.cambiumast.com/ohio/"
+        }
+      ]
+    },
+    "G.SRT.2": {
+      "description": "Use similarity transformations to decide if figures are similar.",
+      "items": [
+        {
+          "year": "Spring 2022",
+          "question": "Q28",
+          "type": "Multiple Choice",
+          "answer": "D",
+          "text": "Given two figures, use the definition of similarity in terms of similarity transformations to decide if they are similar.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp22_IRSG_Geo_093022.pdf#page=95",
+          "images": [
+            "questions/2022/Q28-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2022/Q28-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2022",
+          "question": "Q32",
+          "type": "Short Answer",
+          "text": "Use the definition of similarity in terms of similarity transformations to decide if figures are similar; explain the meaning of similarity for triangles. [2 points]",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp22_IRSG_Geo_093022.pdf#page=110",
+          "images": [
+            "questions/2022/Q32-q1.webp",
+            "questions/2022/Q32-q2.webp"
+          ],
+          "scoringImages": [
+            "questions/2022/Q32-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2023",
+          "question": "Q48",
+          "type": "Multiple Choice",
+          "text": "Use the definition of similarity in terms of similarity transformations to decide if figures are similar; explain equality of corresponding angles and proportionality of sides.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Geometry_080923.pdf#page=161",
+          "images": [
+            "questions/2023/Q48-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2023/Q48-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2025",
+          "question": "Q20",
+          "type": "Multiple Choice",
+          "answer": "D",
+          "text": "Given two figures, use the definition of similarity in terms of similarity transformations to decide if they are similar.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp25_IRSG_Geo_FBL_060225.pdf#page=52",
+          "images": [
+            "questions/2025/Q20-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2025/Q20-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.SRT.3": {
+      "description": "Use properties of similarity transformations to establish the AA similarity criterion.",
+      "items": [
+        {
+          "year": "Spring 2021",
+          "question": "Q48",
+          "type": "Multiple Choice",
+          "text": "Use the properties of similarity transformations to establish the AA criterion for two triangles to be similar.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp21_Geo_ItemRelease_ScoringGuide.pdf#page=191",
+          "images": [
+            "questions/2021/Q48-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2021/Q48-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2024",
+          "question": "Q53",
+          "type": "Multiple Choice",
+          "answer": "A",
+          "text": "Use the properties of similarity transformations to establish the AA criterion for two triangles to be similar.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp24_IRSG_Geo_FBL_050724.pdf#page=167",
+          "images": [
+            "questions/2024/Q53-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2024/Q53-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.SRT.4": {
+      "description": "Prove theorems about triangles (Triangle Proportionality Theorem, Pythagorean Theorem via similarity).",
+      "items": [
+        {
+          "year": "Spring 2017",
+          "question": "Q17",
+          "type": "Multiple Choice",
+          "text": "Prove theorems about triangles: a line parallel to one side divides the other two proportionally; the Pythagorean Theorem proved using triangle similarity.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Geo_Sp17_Item_Release_Scoring_Guide.pdf#page=128",
+          "images": [
+            "questions/2017/Q17-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2017/Q17-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2018",
+          "question": "Q4",
+          "type": "Multiple Choice",
+          "text": "Prove theorems about triangles: a line parallel to one side divides the other two proportionally; the Pythagorean Theorem proved using triangle similarity.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp18_Geo_ItemReleaseScoringGuide.pdf#page=10",
+          "images": [
+            "questions/2018/Q4-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2018/Q4-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2021",
+          "question": "Q22",
+          "type": "Multiple Choice",
+          "answer": "D",
+          "text": "Prove theorems about triangles: a line parallel to one side divides the other two proportionally; the Pythagorean Theorem proved using triangle similarity.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp21_Geo_ItemRelease_ScoringGuide.pdf#page=96",
+          "images": [
+            "questions/2021/Q22-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2021/Q22-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2024",
+          "question": "Q4",
+          "type": "Multiple Choice",
+          "answer": "B",
+          "text": "Prove theorems about triangles: a line parallel to one side divides the other two proportionally; the Pythagorean Theorem proved using triangle similarity.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp24_IRSG_Geo_FBL_050724.pdf#page=26",
+          "images": [
+            "questions/2024/Q4-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2024/Q4-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.SRT.5": {
+      "description": "Use congruence and similarity criteria for triangles to solve problems.",
+      "items": [
+        {
+          "year": "Spring 2017",
+          "question": "Q3",
+          "type": "Multiple Choice",
+          "text": "Use congruence and similarity criteria for triangles to solve problems and to prove relationships in geometric figures.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Geo_Sp17_Item_Release_Scoring_Guide.pdf#page=26",
+          "images": [
+            "questions/2017/Q3-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2017/Q3-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2022",
+          "question": "Q27",
+          "type": "Multiple Choice",
+          "text": "Use congruence and similarity criteria for triangles to solve problems and to justify relationships in geometric figures.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp22_IRSG_Geo_093022.pdf#page=88",
+          "images": [
+            "questions/2022/Q27-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2022/Q27-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2022",
+          "question": "Q37",
+          "type": "Multiple Choice",
+          "text": "Use congruence and similarity criteria for triangles to solve problems and to justify relationships in geometric figures.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp22_IRSG_Geo_093022.pdf#page=131",
+          "images": [
+            "questions/2022/Q37-q1.webp",
+            "questions/2022/Q37-q2.webp"
+          ],
+          "scoringImages": [
+            "questions/2022/Q37-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2025",
+          "question": "Q5",
+          "type": "Multiple Choice",
+          "text": "Use congruence and similarity criteria for triangles to solve problems and to justify relationships in geometric figures.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp25_IRSG_Geo_FBL_060225.pdf#page=20",
+          "images": [
+            "questions/2025/Q5-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2025/Q5-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2026",
+          "question": "Item 37597",
+          "type": "Equation Item",
+          "answer": "28 units",
+          "title": "Using Congruence to Determine Perimeter of Triangle",
+          "text": "In the figure, ∠A ≅ ∠D, ∠C ≅ ∠F, DE = 9, and BC ≅ EF. Triangle ABC has sides x + 3, 8, and 2y + 1; triangle DEF has sides y + 3, 9, and x + 5. What is the perimeter of triangle ABC?",
+          "images": [
+            "questions/2026/37597.png"
+          ],
+          "libraryUrl": "https://irl.cambiumast.com/ohio/"
+        }
+      ]
+    },
+    "G.SRT.6": {
+      "description": "Understand side ratios in right triangles; define trigonometric ratios for acute angles.",
+      "items": [
+        {
+          "year": "Spring 2017",
+          "question": "Q21",
+          "type": "Multiple Choice",
+          "text": "Understand that by similarity, side ratios in right triangles are properties of the angles in the triangle, leading to definitions of trigonometric ratios for acute angles.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Geo_Sp17_Item_Release_Scoring_Guide.pdf#page=156",
+          "images": [
+            "questions/2017/Q21-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2017/Q21-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2018",
+          "question": "Q8",
+          "type": "Multiple Choice",
+          "text": "Understand that by similarity, side ratios in right triangles are properties of the angles in the triangle, leading to definitions of trigonometric ratios for acute angles.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp18_Geo_ItemReleaseScoringGuide.pdf#page=14",
+          "images": [
+            "questions/2018/Q8-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2018/Q8-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2019",
+          "question": "Q16",
+          "type": "Multiple Choice",
+          "text": "Understand that by similarity, side ratios in right triangles are properties of the angles in the triangle, leading to definitions of trigonometric ratios for acute angles.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp19_Geo_ItemRelease_ScoringGuide.pdf#page=77",
+          "images": [
+            "questions/2019/Q16-q1.webp",
+            "questions/2019/Q16-q2.webp"
+          ],
+          "scoringImages": [
+            "questions/2019/Q16-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2024",
+          "question": "Q36",
+          "type": "Multiple Choice",
+          "text": "Understand that by similarity, side ratios in right triangles are properties of the angles in the triangle, leading to definitions of trigonometric ratios for acute angles.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp24_IRSG_Geo_FBL_050724.pdf#page=142",
+          "images": [
+            "questions/2024/Q36-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2024/Q36-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.SRT.7": {
+      "description": "Explain and use the relationship between sine and cosine of complementary angles.",
+      "items": [
+        {
+          "year": "Spring 2017",
+          "question": "Q14",
+          "type": "Multiple Choice",
+          "text": "Explain and use the relationship between the sine and cosine of complementary angles.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Geo_Sp17_Item_Release_Scoring_Guide.pdf#page=112",
+          "images": [
+            "questions/2017/Q14-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2017/Q14-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2018",
+          "question": "Q40",
+          "type": "Multiple Choice",
+          "text": "Explain and use the relationship between the sine and cosine of complementary angles.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp18_Geo_ItemReleaseScoringGuide.pdf#page=142",
+          "images": [
+            "questions/2018/Q40-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2018/Q40-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2019",
+          "question": "Q20",
+          "type": "Multiple Choice",
+          "text": "Explain and use the relationship between the sine and cosine of complementary angles.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp19_Geo_ItemRelease_ScoringGuide.pdf#page=82",
+          "images": [
+            "questions/2019/Q20-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2019/Q20-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2022",
+          "question": "Q34",
+          "type": "Multiple Choice",
+          "text": "Explain and use the relationship between the sine and cosine of complementary angles.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp22_IRSG_Geo_093022.pdf#page=127",
+          "images": [
+            "questions/2022/Q34-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2022/Q34-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2025",
+          "question": "Q35",
+          "type": "Multiple Choice",
+          "text": "Explain and use the relationship between the sine and cosine of complementary angles.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp25_IRSG_Geo_FBL_060225.pdf#page=101",
+          "images": [
+            "questions/2025/Q35-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2025/Q35-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.SRT.8": {
+      "description": "Solve right triangle problems using trig ratios and the Pythagorean Theorem.",
+      "items": [
+        {
+          "year": "Spring 2016",
+          "question": "Q3",
+          "type": "Equation Item",
+          "answer": "60",
+          "text": "A sign company is building a sign with the dimensions shown. [Isosceles triangle, base = 10 ft, slant side = 13 ft] What is the area, in square feet, of the sign?",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/0016601-OST_Geometry_ItemReleaseScoringGuide_Sp16.pdf#page=18",
+          "images": [
+            "questions/2016/Q3-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2016/Q3-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2018",
+          "question": "Q23",
+          "type": "Multiple Choice",
+          "text": "Use trigonometric ratios and the Pythagorean Theorem to solve right triangles in applied problems.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp18_Geo_ItemReleaseScoringGuide.pdf#page=98",
+          "images": [
+            "questions/2018/Q23-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2018/Q23-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2021",
+          "question": "Q5",
+          "type": "Short Answer",
+          "text": "Use trigonometric ratios and the Pythagorean Theorem to solve right triangles in applied problems. [2 points]",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp21_Geo_ItemRelease_ScoringGuide.pdf#page=38",
+          "images": [
+            "questions/2021/Q5-q1.webp",
+            "questions/2021/Q5-q2.webp"
+          ],
+          "scoringImages": [
+            "questions/2021/Q5-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2022",
+          "question": "Q8",
+          "type": "Multiple Choice",
+          "text": "Use trigonometric ratios and the Pythagorean Theorem to solve right triangles in applied problems.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp22_IRSG_Geo_093022.pdf#page=31",
+          "images": [
+            "questions/2022/Q8-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2022/Q8-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2023",
+          "question": "Q29",
+          "type": "Multiple Choice",
+          "text": "Solve right triangle problems using trigonometric ratios and the Pythagorean Theorem.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Geometry_080923.pdf#page=98",
+          "images": [
+            "questions/2023/Q29-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2023/Q29-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2024",
+          "question": "Q22",
+          "type": "Multiple Choice",
+          "text": "Use trigonometric ratios and the Pythagorean Theorem to solve right triangles in applied problems.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp24_IRSG_Geo_FBL_050724.pdf#page=100",
+          "images": [
+            "questions/2024/Q22-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2024/Q22-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2026",
+          "question": "Item 29375",
+          "type": "Equation Item",
+          "answer": "10.6 (10.6–10.7)",
+          "title": "Unknown Side",
+          "text": "Right triangle ABC has a right angle at B, AB = 17, and ∠A = 32°. What is the length of BC? Round to the nearest tenth.",
+          "images": [
+            "questions/2026/29375.png"
+          ],
+          "libraryUrl": "https://irl.cambiumast.com/ohio/"
+        }
+      ]
+    },
+    "G.C.1": {
+      "description": "Prove that all circles are similar using transformational arguments.",
+      "items": [
+        {
+          "year": "Spring 2021",
+          "question": "Q20",
+          "type": "Multiple Choice",
+          "text": "Prove that all circles are similar using transformational arguments.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp21_Geo_ItemRelease_ScoringGuide.pdf#page=72",
+          "images": [
+            "questions/2021/Q20-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2021/Q20-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2022",
+          "question": "Q7",
+          "type": "Multiple Choice",
+          "text": "Prove that all circles are similar using transformational arguments.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp22_IRSG_Geo_093022.pdf#page=24",
+          "images": [
+            "questions/2022/Q7-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2022/Q7-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.C.2": {
+      "description": "Identify and describe relationships among angles, radii, chords, tangents, and arcs; use them to solve problems.",
+      "items": [
+        {
+          "year": "Spring 2018",
+          "question": "Q19",
+          "type": "Multiple Choice",
+          "text": "Identify and describe relationships among angles, radii, chords, tangents, and arcs; include central, inscribed, and circumscribed angles; radius perpendicular to tangent.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp18_Geo_ItemReleaseScoringGuide.pdf#page=78",
+          "images": [
+            "questions/2018/Q19-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2018/Q19-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2019",
+          "question": "Q2",
+          "type": "Multiple Choice",
+          "text": "Identify and describe relationships among angles, radii, chords, tangents, and arcs; include central, inscribed, and circumscribed angles; radius perpendicular to tangent.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp19_Geo_ItemRelease_ScoringGuide.pdf#page=17",
+          "images": [
+            "questions/2019/Q2-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2019/Q2-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2024",
+          "question": "Q30",
+          "type": "Multiple Choice",
+          "text": "Identify and describe relationships among angles, radii, chords, tangents, and arcs; include central, inscribed, and circumscribed angles; radius perpendicular to tangent.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp24_IRSG_Geo_FBL_050724.pdf#page=122",
+          "images": [
+            "questions/2024/Q30-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2024/Q30-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2026",
+          "question": "Item 46832",
+          "type": "Equation Item",
+          "answer": "110°",
+          "title": "Inscribed Angle to Find Measure of Arc",
+          "text": "In circle O, ∠DCA measures 35° and diameter AC bisects ∠DCB. What is the measure, in degrees, of minor arc DC?",
+          "images": [
+            "questions/2026/46832.png"
+          ],
+          "libraryUrl": "https://irl.cambiumast.com/ohio/"
+        }
+      ]
+    },
+    "G.C.3": {
+      "description": "Construct inscribed/circumscribed circles of a triangle; opposite angles supplementary in cyclic quadrilateral.",
+      "items": [
+        {
+          "year": "Spring 2017",
+          "question": "Q10",
+          "type": "Multiple Choice",
+          "text": "Construct the inscribed and circumscribed circles of a triangle; prove and apply the property that opposite angles are supplementary for a quadrilateral inscribed in a circle.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Geo_Sp17_Item_Release_Scoring_Guide.pdf#page=82",
+          "images": [
+            "questions/2017/Q10-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2017/Q10-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2021",
+          "question": "Q42",
+          "type": "Multiple Choice",
+          "text": "Construct the inscribed and circumscribed circles of a triangle; prove opposite angles are supplementary for a quadrilateral inscribed in a circle.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp21_Geo_ItemRelease_ScoringGuide.pdf#page=159",
+          "images": [
+            "questions/2021/Q42-q1.webp",
+            "questions/2021/Q42-q2.webp"
+          ],
+          "scoringImages": [
+            "questions/2021/Q42-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2023",
+          "question": "Q46",
+          "type": "Multiple Choice",
+          "text": "Construct the inscribed and circumscribed circles of a triangle; prove opposite angles are supplementary for a quadrilateral inscribed in a circle.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Geometry_080923.pdf#page=151",
+          "images": [
+            "questions/2023/Q46-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2023/Q46-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2024",
+          "question": "Q18",
+          "type": "Multiple Choice",
+          "text": "Construct the inscribed and circumscribed circles of a triangle; prove opposite angles are supplementary for a quadrilateral inscribed in a circle.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp24_IRSG_Geo_FBL_050724.pdf#page=64",
+          "images": [
+            "questions/2024/Q18-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2024/Q18-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.C.5": {
+      "description": "Find arc lengths and areas of sectors of circles.",
+      "items": [
+        {
+          "year": "Spring 2018",
+          "question": "Q29",
+          "type": "Multiple Choice",
+          "text": "Find arc lengths and areas of sectors of circles. Derive the formula for the area of a sector, and use it to solve problems.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp18_Geo_ItemReleaseScoringGuide.pdf#page=108",
+          "images": [
+            "questions/2018/Q29-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2018/Q29-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2019",
+          "question": "Q10",
+          "type": "Multiple Choice",
+          "text": "Find arc lengths and areas of sectors of circles. Derive the formula for the area of a sector, and use it to solve problems.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp19_Geo_ItemRelease_ScoringGuide.pdf#page=53",
+          "images": [
+            "questions/2019/Q10-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2019/Q10-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2022",
+          "question": "Q10",
+          "type": "Multiple Choice",
+          "text": "Find arc lengths and areas of sectors of circles. Derive the formula for the area of a sector, and use it to solve problems.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp22_IRSG_Geo_093022.pdf#page=42",
+          "images": [
+            "questions/2022/Q10-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2022/Q10-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2023",
+          "question": "Q1",
+          "type": "Multiple Choice",
+          "answer": "A",
+          "text": "Find arc lengths and areas of sectors of circles. Derive the formula for the area of a sector, and use it to solve problems.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Geometry_080923.pdf#page=12",
+          "images": [
+            "questions/2023/Q1-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2023/Q1-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2024",
+          "question": "Q1",
+          "type": "Multiple Choice",
+          "answer": "C",
+          "text": "Find arc lengths and areas of sectors of circles. Derive the formula for the area of a sector, and use it to solve problems.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp24_IRSG_Geo_FBL_050724.pdf#page=12",
+          "images": [
+            "questions/2024/Q1-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2024/Q1-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.GPE.1": {
+      "description": "Derive the equation of a circle; complete the square to find center and radius.",
+      "items": [
+        {
+          "year": "Spring 2017",
+          "question": "Q19",
+          "type": "Multiple Choice",
+          "text": "Derive the equation of a circle of given center and radius using the Pythagorean Theorem; complete the square to find center and radius.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Geo_Sp17_Item_Release_Scoring_Guide.pdf#page=136",
+          "images": [
+            "questions/2017/Q19-q1.webp"
+          ],
+          "scoringImages": []
+        },
+        {
+          "year": "Spring 2021",
+          "question": "Q17",
+          "type": "Multiple Choice",
+          "text": "Derive the equation of a circle of given center and radius using the Pythagorean Theorem; complete the square to find center and radius.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp21_Geo_ItemRelease_ScoringGuide.pdf#page=64",
+          "images": [
+            "questions/2021/Q17-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2021/Q17-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.GPE.4": {
+      "description": "Use coordinates to prove simple geometric theorems algebraically.",
+      "items": [
+        {
+          "year": "Spring 2022",
+          "question": "Q48",
+          "type": "Multiple Choice",
+          "text": "Use coordinates to prove simple geometric theorems algebraically and to verify geometric relationships.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp22_IRSG_Geo_093022.pdf#page=167",
+          "images": [
+            "questions/2022/Q48-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2022/Q48-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2024",
+          "question": "Q21",
+          "type": "Multiple Choice",
+          "text": "Use coordinates to prove simple geometric theorems algebraically and to verify geometric relationships.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp24_IRSG_Geo_FBL_050724.pdf#page=88",
+          "images": [
+            "questions/2024/Q21-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2024/Q21-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2026",
+          "question": "Item 46722",
+          "type": "Equation Item",
+          "answer": "Any a, b with |a − 1|·|b − 2| = 20",
+          "title": "Identifying Coordinates of Rectangle",
+          "text": "The vertices of a rectangle are (1, 2), (1, b), (a, b), and (a, 2). The area of the rectangle is 20 square units. Enter possible values for a and b.",
+          "images": [
+            "questions/2026/46722.png"
+          ],
+          "libraryUrl": "https://irl.cambiumast.com/ohio/"
+        }
+      ]
+    },
+    "G.GPE.5": {
+      "description": "Justify slope criteria for parallel and perpendicular lines; solve related problems.",
+      "items": [
+        {
+          "year": "Spring 2017",
+          "question": "Q15",
+          "type": "Multiple Choice",
+          "text": "Justify the slope criteria for parallel and perpendicular lines, and use them to solve geometric problems.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Geo_Sp17_Item_Release_Scoring_Guide.pdf#page=116",
+          "images": [
+            "questions/2017/Q15-q1.webp"
+          ],
+          "scoringImages": []
+        },
+        {
+          "year": "Spring 2018",
+          "question": "Q9",
+          "type": "Multiple Choice",
+          "text": "Justify the slope criteria for parallel and perpendicular lines, and use them to solve geometric problems.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp18_Geo_ItemReleaseScoringGuide.pdf#page=24",
+          "images": [
+            "questions/2018/Q9-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2018/Q9-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2023",
+          "question": "Q47",
+          "type": "Multiple Choice",
+          "text": "Justify slope criteria for parallel and perpendicular lines; find the equation of a line parallel or perpendicular to a given line through a given point.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Geometry_080923.pdf#page=158",
+          "images": [
+            "questions/2023/Q47-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2023/Q47-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2023",
+          "question": "Q6",
+          "type": "Short Answer",
+          "text": "Justify the slope criteria for parallel and perpendicular lines, and use them to solve geometric problems. [2 points]",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Geometry_080923.pdf#page=35",
+          "images": [
+            "questions/2023/Q6-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2023/Q6-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2025",
+          "question": "Q41",
+          "type": "Multiple Choice",
+          "text": "Justify the slope criteria for parallel and perpendicular lines, and use them to solve geometric problems.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp25_IRSG_Geo_FBL_060225.pdf#page=117",
+          "images": [
+            "questions/2025/Q41-q1.webp",
+            "questions/2025/Q41-q2.webp"
+          ],
+          "scoringImages": [
+            "questions/2025/Q41-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.GPE.6": {
+      "description": "Find the point on a directed line segment that partitions it in a given ratio.",
+      "items": [
+        {
+          "year": "Spring 2017",
+          "question": "Q2",
+          "type": "Multiple Choice",
+          "text": "Find the point on a directed line segment between two given points that partitions the segment in a given ratio.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Geo_Sp17_Item_Release_Scoring_Guide.pdf#page=16",
+          "images": [
+            "questions/2017/Q2-q1.webp"
+          ],
+          "scoringImages": []
+        },
+        {
+          "year": "Spring 2019",
+          "question": "Q11",
+          "type": "Multiple Choice",
+          "text": "Find the point on a directed line segment between two given points that partitions the segment in a given ratio.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp19_Geo_ItemRelease_ScoringGuide.pdf#page=56",
+          "images": [
+            "questions/2019/Q11-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2019/Q11-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.GPE.7": {
+      "description": "Use coordinates to compute perimeters of polygons and areas of triangles/rectangles.",
+      "items": [
+        {
+          "year": "Spring 2021",
+          "question": "Q45",
+          "type": "Multiple Choice",
+          "text": "Use coordinates to compute perimeters of polygons and areas of triangles and rectangles, e.g., using the distance formula.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp21_Geo_ItemRelease_ScoringGuide.pdf#page=172",
+          "images": [
+            "questions/2021/Q45-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2021/Q45-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2024",
+          "question": "Q19",
+          "type": "Multiple Choice",
+          "text": "Use coordinates to compute perimeters of polygons and areas of triangles and rectangles, e.g., using the distance formula.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp24_IRSG_Geo_FBL_050724.pdf#page=68",
+          "images": [
+            "questions/2024/Q19-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2024/Q19-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2025",
+          "question": "Q46",
+          "type": "Multiple Choice",
+          "text": "Use coordinates to compute perimeters of polygons and areas of triangles and rectangles, e.g., using the distance formula.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp25_IRSG_Geo_FBL_060225.pdf#page=142",
+          "images": [
+            "questions/2025/Q46-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2025/Q46-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.GMD.1": {
+      "description": "Give informal arguments for circumference, area, and volume formulas.",
+      "items": [
+        {
+          "year": "Spring 2019",
+          "question": "Q36",
+          "type": "Multiple Choice",
+          "text": "Give an informal argument for the formulas for the circumference of a circle, area of a circle, and volume of a cylinder, pyramid, and cone.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp19_Geo_ItemRelease_ScoringGuide.pdf#page=129",
+          "images": [
+            "questions/2019/Q36-q1.webp",
+            "questions/2019/Q36-q2.webp"
+          ],
+          "scoringImages": [
+            "questions/2019/Q36-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2021",
+          "question": "Q23",
+          "type": "Multiple Choice",
+          "text": "Give an informal argument for the formulas for the circumference of a circle, area of a circle, and volume of a cylinder, pyramid, and cone.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp21_Geo_ItemRelease_ScoringGuide.pdf#page=100",
+          "images": [
+            "questions/2021/Q23-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2021/Q23-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2024",
+          "question": "Q12",
+          "type": "Short Answer",
+          "text": "Give an informal argument for the formulas for the circumference of a circle, area of a circle, and volume of a cylinder, pyramid, and cone. [2 points]",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp24_IRSG_Geo_FBL_050724.pdf#page=42",
+          "images": [
+            "questions/2024/Q12-q1.webp",
+            "questions/2024/Q12-q2.webp"
+          ],
+          "scoringImages": [
+            "questions/2024/Q12-s1.webp",
+            "questions/2024/Q12-s2.webp"
+          ]
+        }
+      ]
+    },
+    "G.GMD.3": {
+      "description": "Use volume formulas for cylinders, pyramids, cones, and spheres to solve problems.",
+      "items": [
+        {
+          "year": "Spring 2017",
+          "question": "Q5",
+          "type": "Equation Item",
+          "answer": "~823",
+          "text": "Use volume formulas for cylinders, pyramids, cones, and spheres to solve problems. [Answer: ~822.857–823.68]",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Geo_Sp17_Item_Release_Scoring_Guide.pdf#page=46",
+          "images": [
+            "questions/2017/Q5-q1.webp"
+          ],
+          "scoringImages": []
+        },
+        {
+          "year": "Spring 2018",
+          "question": "Q34",
+          "type": "Multiple Choice",
+          "text": "Use volume formulas for cylinders, pyramids, cones, and spheres to solve problems.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp18_Geo_ItemReleaseScoringGuide.pdf#page=122",
+          "images": [
+            "questions/2018/Q34-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2018/Q34-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2021",
+          "question": "Q4",
+          "type": "Multiple Choice",
+          "text": "Use volume formulas for cylinders, pyramids, cones, and spheres to solve problems.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp21_Geo_ItemRelease_ScoringGuide.pdf#page=26",
+          "images": [
+            "questions/2021/Q4-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2021/Q4-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2022",
+          "question": "Q20",
+          "type": "Multiple Choice",
+          "text": "Use volume formulas for cylinders, pyramids, cones, and spheres to solve problems.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp22_IRSG_Geo_093022.pdf#page=57",
+          "images": [
+            "questions/2022/Q20-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2022/Q20-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2022",
+          "question": "Q30",
+          "type": "Multiple Choice",
+          "text": "Use volume formulas for cylinders, pyramids, cones, and spheres to solve problems.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp22_IRSG_Geo_093022.pdf#page=99",
+          "images": [
+            "questions/2022/Q30-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2022/Q30-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2023",
+          "question": "Q7",
+          "type": "Multiple Choice",
+          "text": "Use volume formulas for cylinders, pyramids, cones, and spheres to solve problems.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Geometry_080923.pdf#page=50",
+          "images": [
+            "questions/2023/Q7-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2023/Q7-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2026",
+          "question": "Item 46954",
+          "type": "Multiple Choice",
+          "answer": "A",
+          "title": "Compare Volume of Cone and Cylinder",
+          "text": "A cone is shown with radius r and height h. Which cylinder has the same volume as the cone? A) radius r, height ⅓h  B) radius ⅓r, height h  C) radius r, height h  D) radius r, height 3h",
+          "images": [
+            "questions/2026/46954.png"
+          ],
+          "libraryUrl": "https://irl.cambiumast.com/ohio/"
+        }
+      ]
+    },
+    "G.GMD.4": {
+      "description": "Identify cross-sections of 3D objects; identify 3D objects generated by rotations of 2D objects.",
+      "items": [
+        {
+          "year": "Spring 2017",
+          "question": "Q1",
+          "type": "Multiple Choice",
+          "text": "Identify the shapes of two-dimensional cross-sections of three-dimensional objects, and identify three-dimensional objects generated by rotations of two-dimensional objects.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Geo_Sp17_Item_Release_Scoring_Guide.pdf#page=12",
+          "images": [
+            "questions/2017/Q1-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2017/Q1-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2018",
+          "question": "Q16",
+          "type": "Multiple Choice",
+          "answer": "A",
+          "text": "Identify the shapes of two-dimensional cross-sections of three-dimensional objects, and identify three-dimensional objects generated by rotations of two-dimensional objects.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp18_Geo_ItemReleaseScoringGuide.pdf#page=64",
+          "images": [
+            "questions/2018/Q16-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2018/Q16-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2019",
+          "question": "Q1",
+          "type": "Multiple Choice",
+          "answer": "A",
+          "text": "Identify the shapes of two-dimensional cross-sections of three-dimensional objects, and identify three-dimensional objects generated by rotations of two-dimensional objects.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp19_Geo_ItemRelease_ScoringGuide.pdf#page=13",
+          "images": [
+            "questions/2019/Q1-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2019/Q1-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2022",
+          "question": "Q22",
+          "type": "Multiple Choice",
+          "answer": "A",
+          "text": "Identify the shapes of two-dimensional cross-sections of three-dimensional objects, and identify three-dimensional objects generated by rotations of two-dimensional objects.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp22_IRSG_Geo_093022.pdf#page=64",
+          "images": [
+            "questions/2022/Q22-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2022/Q22-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2024",
+          "question": "Q35",
+          "type": "Multiple Choice",
+          "answer": "B",
+          "text": "Identify the shapes of two-dimensional cross-sections of three-dimensional objects, and identify three-dimensional objects generated by rotations of two-dimensional objects.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp24_IRSG_Geo_FBL_050724.pdf#page=138",
+          "images": [
+            "questions/2024/Q35-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2024/Q35-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.GMD.5": {
+      "description": "Understand how changes to measures of a figure result in similar and non-similar figures.",
+      "items": [
+        {
+          "year": "Spring 2022",
+          "question": "Q6",
+          "type": "Multiple Choice",
+          "text": "Understand how and when changes to the measures of a figure (lengths or angles) result in similar and non-similar figures.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp22_IRSG_Geo_093022.pdf#page=12",
+          "images": [
+            "questions/2022/Q6-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2022/Q6-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2025",
+          "question": "Q1",
+          "type": "Multiple Choice",
+          "answer": "C",
+          "text": "Understand how and when changes to the measures of a figure (lengths or angles) result in similar and non-similar figures.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp25_IRSG_Geo_FBL_060225.pdf#page=13",
+          "images": [
+            "questions/2025/Q1-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2025/Q1-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.GMD.6": {
+      "description": "Apply scaling factors k, k², k³ for lengths, areas, and volumes of similar figures.",
+      "items": [
+        {
+          "year": "Spring 2019",
+          "question": "Q49",
+          "type": "Multiple Choice",
+          "text": "When figures are similar, apply the fact that scaling by k multiplies lengths, areas, and volumes by k, k², and k³ respectively.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp19_Geo_ItemRelease_ScoringGuide.pdf#page=156",
+          "images": [
+            "questions/2019/Q49-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2019/Q49-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2024",
+          "question": "Q20",
+          "type": "Short Answer",
+          "text": "When figures are similar, apply the fact that scaling by k multiplies lengths, areas, and volumes by k, k², and k³ respectively. [2 points]",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp24_IRSG_Geo_FBL_050724.pdf#page=77",
+          "images": [
+            "questions/2024/Q20-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2024/Q20-s1.webp",
+            "questions/2024/Q20-s2.webp"
+          ]
+        },
+        {
+          "year": "Spring 2026",
+          "question": "Item 39150",
+          "type": "Equation Item",
+          "answer": "4",
+          "title": "Dilated Rectangular Prism",
+          "text": "A rectangular prism measures 7 by 3 by 5. The prism is dilated so that the face with the smallest area is 240 square units. What is the scale factor of the dilation?",
+          "images": [
+            "questions/2026/39150.png"
+          ],
+          "libraryUrl": "https://irl.cambiumast.com/ohio/"
+        }
+      ]
+    },
+    "G.MG.1": {
+      "description": "Use geometric shapes, measures, and properties to describe objects.",
+      "items": [
+        {
+          "year": "Spring 2016",
+          "question": "Q2",
+          "type": "Multiple Choice",
+          "answer": "A",
+          "text": "A company wants to determine the amount of a vitamin mix enclosed in a capsule with radius 3 mm and length 15 mm. Which statement best explains how to find the amount of vitamin mix that fits in the capsule? [Capsule shown as cylinder with hemispherical ends]",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/0016601-OST_Geometry_ItemReleaseScoringGuide_Sp16.pdf#page=14",
+          "images": [
+            "questions/2016/Q2-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2016/Q2-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2023",
+          "question": "Q2",
+          "type": "Matching Item",
+          "text": "Use geometric shapes, their measures, and their properties to describe objects (e.g., modeling a tree trunk or a human torso as a cylinder).",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Geometry_080923.pdf#page=16",
+          "images": [
+            "questions/2023/Q2-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2023/Q2-s1.webp"
+          ]
+        }
+      ]
+    },
+    "G.MG.2": {
+      "description": "Apply concepts of density based on area and volume in modeling situations.",
+      "items": [
+        {
+          "year": "Spring 2016",
+          "question": "Q1",
+          "type": "Equation Item",
+          "answer": "16686 or 16687",
+          "text": "In 2014, the population of Hong Kong was estimated to be approximately 7,112,688 people. The city covers an area of approximately 426.25 square miles. What was the population density of Hong Kong in 2014, in people per square mile, rounded to the nearest person?",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/0016601-OST_Geometry_ItemReleaseScoringGuide_Sp16.pdf#page=6",
+          "images": [
+            "questions/2016/Q1-q1.webp"
+          ],
+          "scoringImages": []
+        },
+        {
+          "year": "Spring 2017",
+          "question": "Q7",
+          "type": "Multiple Choice",
+          "text": "Apply concepts of density based on area and volume in modeling situations (e.g., persons per square mile, BTUs per cubic foot).",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Geo_Sp17_Item_Release_Scoring_Guide.pdf#page=64",
+          "images": [
+            "questions/2017/Q7-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2017/Q7-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2018",
+          "question": "Q11",
+          "type": "Multiple Choice",
+          "text": "Apply concepts of density based on area and volume in modeling situations (e.g., persons per square mile, BTUs per cubic foot).",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp18_Geo_ItemReleaseScoringGuide.pdf#page=34",
+          "images": [
+            "questions/2018/Q11-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2018/Q11-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2022",
+          "question": "Q23",
+          "type": "Multiple Choice",
+          "text": "Apply concepts of density based on area and volume in modeling situations (e.g., persons per square mile, BTUs per cubic foot).",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp22_IRSG_Geo_093022.pdf#page=68",
+          "images": [
+            "questions/2022/Q23-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2022/Q23-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2023",
+          "question": "Q27",
+          "type": "Multiple Choice",
+          "text": "Apply concepts of density based on area and volume in modeling situations (e.g., persons per square mile, BTUs per cubic foot).",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Geometry_080923.pdf#page=85",
+          "images": [
+            "questions/2023/Q27-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2023/Q27-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2024",
+          "question": "Q26",
+          "type": "Multiple Choice",
+          "text": "Apply concepts of density based on area and volume in modeling situations (e.g., persons per square mile, BTUs per cubic foot).",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp24_IRSG_Geo_FBL_050724.pdf#page=114",
+          "images": [
+            "questions/2024/Q26-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2024/Q26-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2025",
+          "question": "Q37",
+          "type": "Multiple Choice",
+          "text": "Apply concepts of density based on area and volume in modeling situations (e.g., persons per square mile, BTUs per cubic foot).",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp25_IRSG_Geo_FBL_060225.pdf#page=110",
+          "images": [
+            "questions/2025/Q37-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2025/Q37-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2026",
+          "question": "Item 47040",
+          "type": "Equation Item",
+          "answer": "0.05",
+          "title": "Density of Sheep in Fenced-In Area",
+          "text": "A farmer has a fenced-in area for her 20 sheep. The fenced-in area is 400 square meters. What is the density, in sheep per square meter, of the fenced-in area?",
+          "images": [
+            "questions/2026/47040.png"
+          ],
+          "libraryUrl": "https://irl.cambiumast.com/ohio/"
+        }
+      ]
+    },
+    "G.MG.3": {
+      "description": "Apply geometric methods to solve design problems.",
+      "items": [
+        {
+          "year": "Spring 2019",
+          "question": "Q41",
+          "type": "Multiple Choice",
+          "text": "Apply geometric methods to solve design problems (e.g., designing an object or structure to satisfy physical constraints or minimize cost).",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp19_Geo_ItemRelease_ScoringGuide.pdf#page=147",
+          "images": [
+            "questions/2019/Q41-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2019/Q41-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2022",
+          "question": "Q42",
+          "type": "Multiple Choice",
+          "text": "Apply geometric methods to solve design problems (e.g., designing an object or structure to satisfy physical constraints or minimize cost).",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp22_IRSG_Geo_093022.pdf#page=142",
+          "images": [
+            "questions/2022/Q42-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2022/Q42-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2025",
+          "question": "Q12",
+          "type": "Multiple Choice",
+          "text": "Apply geometric methods to solve design problems (e.g., designing an object or structure to satisfy physical constraints or minimize cost).",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp25_IRSG_Geo_FBL_060225.pdf#page=40",
+          "images": [
+            "questions/2025/Q12-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2025/Q12-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2026",
+          "question": "Item 47046",
+          "type": "Equation Item",
+          "answer": "4 ft × 4 ft",
+          "title": "Determine Maximum Area Given Perimeter",
+          "text": "Shaina has 16 feet of fencing to put around her rectangular section of a community garden. She wants to use all the fencing and make her section as large as possible. What are the dimensions, in feet, of the section with the largest area?",
+          "images": [
+            "questions/2026/47046.png"
+          ],
+          "libraryUrl": "https://irl.cambiumast.com/ohio/"
+        }
+      ]
+    },
+    "S.CP.1": {
+      "description": "Describe events as subsets of a sample space using unions, intersections, or complements.",
+      "items": [
+        {
+          "year": "Spring 2017",
+          "question": "Q11",
+          "type": "Multiple Choice",
+          "text": "Describe events as subsets of a sample space using characteristics of the outcomes, or as unions, intersections, or complements of other events.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Geo_Sp17_Item_Release_Scoring_Guide.pdf#page=92",
+          "images": [
+            "questions/2017/Q11-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2017/Q11-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2024",
+          "question": "Q3",
+          "type": "Multiple Choice",
+          "text": "Describe events as subsets of a sample space using characteristics of the outcomes, or as unions, intersections, or complements of other events.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp24_IRSG_Geo_FBL_050724.pdf#page=16",
+          "images": [
+            "questions/2024/Q3-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2024/Q3-s1.webp"
+          ]
+        }
+      ]
+    },
+    "S.CP.2": {
+      "description": "Understand and use the definition of independent events: P(A and B) = P(A)·P(B).",
+      "items": [
+        {
+          "year": "Spring 2018",
+          "question": "Q18",
+          "type": "Multiple Choice",
+          "text": "Understand that two events A and B are independent if and only if P(A and B) = P(A)·P(B).",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp18_Geo_ItemReleaseScoringGuide.pdf#page=68",
+          "images": [
+            "questions/2018/Q18-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2018/Q18-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2023",
+          "question": "Q31",
+          "type": "Multiple Choice",
+          "text": "Understand that two events A and B are independent if and only if P(A and B) = P(A)·P(B).",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Geometry_080923.pdf#page=114",
+          "images": [
+            "questions/2023/Q31-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2023/Q31-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2023",
+          "question": "Q5",
+          "type": "Multiple Choice",
+          "text": "Understand that two events A and B are independent if and only if P(A and B) = P(A)·P(B).",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Geometry_080923.pdf#page=24",
+          "images": [
+            "questions/2023/Q5-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2023/Q5-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2025",
+          "question": "Q21",
+          "type": "Multiple Choice",
+          "text": "Understand that two events A and B are independent if and only if P(A and B) = P(A)·P(B).",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp25_IRSG_Geo_FBL_060225.pdf#page=56",
+          "images": [
+            "questions/2025/Q21-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2025/Q21-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2025",
+          "question": "Q42",
+          "type": "Multiple Choice",
+          "text": "Understand that two events A and B are independent if and only if P(A and B) = P(A)·P(B).",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp25_IRSG_Geo_FBL_060225.pdf#page=128",
+          "images": [
+            "questions/2025/Q42-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2025/Q42-s1.webp"
+          ]
+        }
+      ]
+    },
+    "S.CP.3": {
+      "description": "Understand conditional probability P(A|B) = P(A and B)/P(B); interpret independence.",
+      "items": [
+        {
+          "year": "Spring 2021",
+          "question": "Q11",
+          "type": "Multiple Choice",
+          "text": "Understand the conditional probability of A given B as P(A and B)/P(B); interpret independence as saying the conditional probability of A given B equals P(A).",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp21_Geo_ItemRelease_ScoringGuide.pdf#page=56",
+          "images": [
+            "questions/2021/Q11-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2021/Q11-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2022",
+          "question": "Q38",
+          "type": "Multiple Choice",
+          "text": "Understand the conditional probability of A given B as P(A and B)/P(B); interpret independence of A and B.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp22_IRSG_Geo_093022.pdf#page=139",
+          "images": [
+            "questions/2022/Q38-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2022/Q38-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2024",
+          "question": "Q45",
+          "type": "Multiple Choice",
+          "text": "Understand the conditional probability of A given B as P(A and B)/P(B); interpret independence of A and B.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp24_IRSG_Geo_FBL_050724.pdf#page=157",
+          "images": [
+            "questions/2024/Q45-q1.webp",
+            "questions/2024/Q45-q2.webp"
+          ],
+          "scoringImages": [
+            "questions/2024/Q45-s1.webp"
+          ]
+        }
+      ]
+    },
+    "S.CP.4": {
+      "description": "Construct and interpret two-way frequency tables; use to assess independence.",
+      "items": [
+        {
+          "year": "Spring 2018",
+          "question": "Q48",
+          "type": "Multiple Choice",
+          "text": "Construct and interpret two-way frequency tables; use the table as a sample space to decide if events are independent.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp18_Geo_ItemReleaseScoringGuide.pdf#page=186",
+          "images": [
+            "questions/2018/Q48-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2018/Q48-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2019",
+          "question": "Q8",
+          "type": "Multiple Choice",
+          "text": "Construct and interpret two-way frequency tables; use the table as a sample space to decide if events are independent and to approximate conditional probabilities.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp19_Geo_ItemRelease_ScoringGuide.pdf#page=42",
+          "images": [
+            "questions/2019/Q8-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2019/Q8-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2021",
+          "question": "Q3",
+          "type": "Multiple Choice",
+          "text": "Construct and interpret two-way frequency tables; use the table as a sample space to decide if events are independent and to approximate conditional probabilities.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp21_Geo_ItemRelease_ScoringGuide.pdf#page=23",
+          "images": [
+            "questions/2021/Q3-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2021/Q3-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2022",
+          "question": "Q26",
+          "type": "Multiple Choice",
+          "text": "Construct and interpret two-way frequency tables; use the table as a sample space to decide if events are independent and to approximate conditional probabilities.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp22_IRSG_Geo_093022.pdf#page=76",
+          "images": [
+            "questions/2022/Q26-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2022/Q26-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2023",
+          "question": "Q36",
+          "type": "Extended Response",
+          "text": "Construct and interpret two-way frequency tables; use the table as a sample space to decide if events are independent and to approximate conditional probabilities. [2 points]",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Geometry_080923.pdf#page=125",
+          "images": [
+            "questions/2023/Q36-q1.webp",
+            "questions/2023/Q36-q2.webp"
+          ],
+          "scoringImages": [
+            "questions/2023/Q36-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2025",
+          "question": "Q30",
+          "type": "Short Answer",
+          "text": "Construct and interpret two-way frequency tables; use the table as a sample space to decide if events are independent. [2 points]",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp25_IRSG_Geo_FBL_060225.pdf#page=81",
+          "images": [
+            "questions/2025/Q30-q1.webp",
+            "questions/2025/Q30-q2.webp"
+          ],
+          "scoringImages": [
+            "questions/2025/Q30-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2026",
+          "question": "Item 34326",
+          "type": "Table Item",
+          "answer": "Ohio 5.6 / 2.4; Michigan 4.8 / 2.7",
+          "title": "Voters in Ohio and Michigan",
+          "text": "A table shows registered voters (in millions) in Ohio (8) and Michigan (7.5) in 2012, with 10.4 who voted and 5.1 who did not. The probability that a registered voter voted, given that they live in Ohio, is 70%. Complete the two-way table.",
+          "images": [
+            "questions/2026/34326.png"
+          ],
+          "libraryUrl": "https://irl.cambiumast.com/ohio/"
+        }
+      ]
+    },
+    "S.CP.5": {
+      "description": "Recognize conditional probability and independence in everyday situations.",
+      "items": [
+        {
+          "year": "Spring 2017",
+          "question": "Q4",
+          "type": "Short Answer",
+          "text": "Recognize and explain the concepts of conditional probability and independence in everyday language and everyday situations. [2 points]",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Geo_Sp17_Item_Release_Scoring_Guide.pdf#page=30",
+          "images": [
+            "questions/2017/Q4-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2017/Q4-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2019",
+          "question": "Q28",
+          "type": "Multiple Choice",
+          "text": "Recognize and explain the concepts of conditional probability and independence in everyday language and everyday situations.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp19_Geo_ItemRelease_ScoringGuide.pdf#page=93",
+          "images": [
+            "questions/2019/Q28-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2019/Q28-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2022",
+          "question": "Q18",
+          "type": "Multiple Choice",
+          "text": "Recognize and explain the concepts of conditional probability and independence in everyday language and everyday situations.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp22_IRSG_Geo_093022.pdf#page=50",
+          "images": [
+            "questions/2022/Q18-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2022/Q18-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2023",
+          "question": "Q49",
+          "type": "Multiple Choice",
+          "text": "Recognize and explain conditional probability and independence in everyday situations.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Geometry_080923.pdf#page=169",
+          "images": [
+            "questions/2023/Q49-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2023/Q49-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2025",
+          "question": "Q27",
+          "type": "Multiple Choice",
+          "text": "Recognize and explain the concepts of conditional probability and independence in everyday situations.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp25_IRSG_Geo_FBL_060225.pdf#page=74",
+          "images": [
+            "questions/2025/Q27-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2025/Q27-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2025",
+          "question": "Q3",
+          "type": "Multiple Choice",
+          "text": "Recognize and explain the concepts of conditional probability and independence in everyday language and everyday situations.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp25_IRSG_Geo_FBL_060225.pdf#page=17",
+          "images": [
+            "questions/2025/Q3-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2025/Q3-s1.webp"
+          ]
+        }
+      ]
+    },
+    "S.CP.6": {
+      "description": "Find conditional probability of A given B as the fraction of B's outcomes also in A.",
+      "items": [
+        {
+          "year": "Spring 2017",
+          "question": "Q9",
+          "type": "Multiple Choice",
+          "text": "Find the conditional probability of A given B as the fraction of B's outcomes that also belong to A, and interpret the answer in terms of the model.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Geo_Sp17_Item_Release_Scoring_Guide.pdf#page=78",
+          "images": [
+            "questions/2017/Q9-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2017/Q9-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2018",
+          "question": "Q12",
+          "type": "Multiple Choice",
+          "text": "Find the conditional probability of A given B as the fraction of B's outcomes that also belong to A, and interpret the answer in terms of the model.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp18_Geo_ItemReleaseScoringGuide.pdf#page=44",
+          "images": [
+            "questions/2018/Q12-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2018/Q12-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2019",
+          "question": "Q32",
+          "type": "Multiple Choice",
+          "text": "Find the conditional probability of A given B as the fraction of B's outcomes that also belong to A, and interpret the answer in terms of the model.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp19_Geo_ItemRelease_ScoringGuide.pdf#page=104",
+          "images": [
+            "questions/2019/Q32-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2019/Q32-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2021",
+          "question": "Q41",
+          "type": "Multiple Choice",
+          "text": "Find the conditional probability of A given B as the fraction of B's outcomes that also belong to A, and interpret the answer in terms of the model.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp21_Geo_ItemRelease_ScoringGuide.pdf#page=149",
+          "images": [
+            "questions/2021/Q41-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2021/Q41-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2025",
+          "question": "Q33",
+          "type": "Multiple Choice",
+          "text": "Find the conditional probability of A given B as the fraction of B's outcomes that also belong to A, and interpret the answer in terms of the model.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp25_IRSG_Geo_FBL_060225.pdf#page=98",
+          "images": [
+            "questions/2025/Q33-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2025/Q33-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2026",
+          "question": "Item 45477",
+          "type": "Multiple Choice",
+          "answer": "C",
+          "title": "Interpreting Conditional Probability in Context",
+          "text": "Sloan asks people in her neighborhood what kind of music they like. Event W: a randomly selected person is an adult. Event X: a randomly selected person likes country music. W and X are dependent. What is P(X|W) in this situation?",
+          "images": [
+            "questions/2026/45477.png"
+          ],
+          "libraryUrl": "https://irl.cambiumast.com/ohio/"
+        }
+      ]
+    },
+    "S.CP.7": {
+      "description": "Apply the Addition Rule: P(A or B) = P(A) + P(B) − P(A and B).",
+      "items": [
+        {
+          "year": "Spring 2018",
+          "question": "Q15",
+          "type": "Multiple Choice",
+          "text": "Apply the Addition Rule, P(A or B) = P(A) + P(B) − P(A and B), and interpret the answer in terms of the model.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp18_Geo_ItemReleaseScoringGuide.pdf#page=54",
+          "images": [
+            "questions/2018/Q15-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2018/Q15-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2021",
+          "question": "Q21",
+          "type": "Multiple Choice",
+          "text": "Apply the Addition Rule, P(A or B) = P(A) + P(B) − P(A and B), and interpret the answer in terms of the model.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/Sp21_Geo_ItemRelease_ScoringGuide.pdf#page=84",
+          "images": [
+            "questions/2021/Q21-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2021/Q21-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2022",
+          "question": "Q31",
+          "type": "Multiple Choice",
+          "text": "Apply the Addition Rule, P(A or B) = P(A) + P(B) − P(A and B), and interpret the answer in terms of the model.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp22_IRSG_Geo_093022.pdf#page=102",
+          "images": [
+            "questions/2022/Q31-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2022/Q31-s1.webp"
+          ]
+        },
+        {
+          "year": "Spring 2025",
+          "question": "Q25",
+          "type": "Multiple Choice",
+          "answer": "B",
+          "text": "Apply the Addition Rule, P(A or B) = P(A) + P(B) − P(A and B), and interpret the answer in terms of the model.",
+          "pdfUrl": "https://oh-ost.portal.cambiumast.com/content/contentresources/en/OST_Sp25_IRSG_Geo_FBL_060225.pdf#page=70",
+          "images": [
+            "questions/2025/Q25-q1.webp"
+          ],
+          "scoringImages": [
+            "questions/2025/Q25-s1.webp"
+          ]
+        }
+      ]
+    }
+  }
+}
